@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyPhone</string>
+    <string name="phone_name">Samsung</string>
+    <string name="phone_price">$599.99</string>
+    <string name="phone_desc">version  </string>
+    <string name="memory">256 GB | 8 GB</string>
+    <string name="camera">50 MP, f/1.8, 23 mm(wide)</string>
+    <string name="bookmark">Bookmarks</string>
+
+</resources>
